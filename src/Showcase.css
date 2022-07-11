@@ -1,0 +1,21 @@
+.showcaseMain {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.pokeType {
+  background-color: green;
+  color: white;
+}
+
+.pokeMove {
+  background-color: white;
+  color: green;
+}
+
+.pokeImage {
+  border-radius: 50%;
+  display: inline;
+}
